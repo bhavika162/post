@@ -1,0 +1,12 @@
+/node_modules
+/storage/*.key
+/vendor
+/bootstrap/cache
+/.idea
+/.vagrant
+composer.lock
+/storage/app/*
+/storage/framework/*
+/storage/logs/*
+/storage/glide/*
+/storage/images/*
